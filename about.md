@@ -10,3 +10,7 @@ title: About
   <br />
   Thanks for visiting.
 </div>
+
+<div class="message">
+  VRRP and Keepalived -- https://docs.oracle.com/cd/E37670_01/E41138/html/section_uxg_lzh_nr.html
+</div>
