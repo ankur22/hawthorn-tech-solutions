@@ -15,7 +15,7 @@ author:
   name:           'Ankur Agarwal'
   url:            https://twitter.com/ankur_a22
 
-jekyll-paginate:         5
+jekyll-paginate:  5
 
 # Custom vars
 version:          1.0.0
