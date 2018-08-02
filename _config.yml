@@ -1,29 +1,24 @@
 # Dependencies
-highlighter:      rouge
+markdown:         redcarpet
+pygments:         true
 
 # Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-#relative_permalinks: true
+permalink:        pretty
 
 # Setup
-title:              Hawthorn Tech Solutions Ltd
-tagline:            'Your Technology Solutions'
-description:        'Monolith to micro services; webservices in java, golang, python; Android; javascript; kotlin; kafka; C++'
-url:                https://hawthorntechsolutions.co.uk
-copyright:          © Hawthorn Tech Solutions Ltd 2018. All rights reserved. Hawthorn Tech Solutions Ltd is a company registered in England & Wales. Company Registration Number 11439262
-baseurl:            ''
-jekyll-paginate:    5
+title:            Hawthorn Tech Solutions Ltd
+tagline:          'Your Technology Solutions'
+description:      'Monolith to micro services; webservices in java, golang, python; Android; javascript; kotlin; kafka; C++'
+url:              https://hawthorntechsolutions.co.uk
 
-# About/contact
 author:
-  name:             'Ankur Agarwal'
-  url:              https://twitter.com/ankur_a22
-  email:             ankur@hawthorntechsolutions.co.uk
+  name:           'Ankur Agarwal'
+  url:            https://twitter.com/ankur_a22
+
+paginate:         5
 
 # Custom vars
-version:             1.0.0
+version:          1.0.0
 
 github:
   repo:           https://github.com/ankur22/hawthorn-tech-solutions
