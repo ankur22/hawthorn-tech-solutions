@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Under Construction
+published: true
 ---
 
 <div class="message">
