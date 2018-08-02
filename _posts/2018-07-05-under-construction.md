@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Under Construction
+published: true
 ---
-
-<h2>Welcome</h2>
 
 <div class="message">
   This site is still under construction.
